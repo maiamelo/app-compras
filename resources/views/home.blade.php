@@ -14,7 +14,7 @@
                 <input type="number" name="budget" step="0.01" class="w-2/5 px-4 py-2 border border-gray-300 rounded-md"
                     placeholder="Orçamento (ex: 500.00)" required>
                 <button type="submit" class="w-32 bg-blue-600 text-white py-2 rounded-md hover:bg-blue-700">Criar
-                    Lista</button>
+                    Lista +</button>
             </div>
 
         </form>
