@@ -1,5 +1,5 @@
 {
-  "name": "app-compras",
+  "name": "apps",
   "private": true,
   "scripts": {
     "build": "turbo run build",
